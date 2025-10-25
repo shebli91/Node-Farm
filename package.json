@@ -4,7 +4,7 @@
   "description": "Learning node.js",
   "main": "Index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/shebli91/Node-Farm/issues"
   },
-  "homepage": "https://github.com/shebli91/Node-Farm#readme"
+  "homepage": "https://github.com/shebli91/Node-Farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
