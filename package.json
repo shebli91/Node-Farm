@@ -1,0 +1,19 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shebli91/Node-Farm.git"
+  },
+  "author": "Mohammad Shebli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shebli91/Node-Farm/issues"
+  },
+  "homepage": "https://github.com/shebli91/Node-Farm#readme"
+}
